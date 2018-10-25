@@ -1,0 +1,27 @@
+{
+  "name": "udacity-blockchain-notary-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shotaro12oyama/udacity-blockchain-notary-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shotaro12oyama/udacity-blockchain-notary-service/issues"
+  },
+  "homepage": "https://github.com/shotaro12oyama/udacity-blockchain-notary-service#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ava": "^0.25.0",
+    "bitcoinjs-lib": "^3.3.2",
+    "bitcoinjs-message": "^2.0.0"
+  }
+}
