@@ -22,6 +22,13 @@
   "dependencies": {
     "ava": "^0.25.0",
     "bitcoinjs-lib": "^3.3.2",
-    "bitcoinjs-message": "^2.0.0"
-  }
+    "bitcoinjs-message": "^2.0.0",
+    "body-parser": "^1.18.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4",
+    "level": "^4.0.0",
+    "morgan": "^1.9.1",
+    "supertest": "^3.3.0"
+  },
+  "devDependencies": {}
 }
